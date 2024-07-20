@@ -272,9 +272,6 @@ public:
         }
     }
 
-    void printFinalResults() {
-        // 이미 mergeIslandsAndOptimize에서 최적 해를 출력했으므로 여기서는 생략합니다.
-    }
 };
 
 int main() {
